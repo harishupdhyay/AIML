@@ -1,0 +1,10 @@
+<aiml>
+  <category>
+    <pattern>HELLO</pattern>
+    <template>Hello! How can I assist you?</template>
+  </category>
+  <category>
+    <pattern>WHAT IS AI</pattern>
+    <template>AI stands for Artificial Intelligence.</template>
+  </category>
+</aiml>
